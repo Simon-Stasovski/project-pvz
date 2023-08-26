@@ -1,0 +1,248 @@
+{
+	"images": [
+		{
+			"name": "FrontYard",
+			"path": "./assets/images/FrontYard.png",
+			"width": 744,
+			"height": 413
+		},
+		{
+			"name": "Peashooter",
+			"path": "./assets/images/peashooter.png",
+			"width": 217,
+			"height": 186
+		},
+		{
+			"name": "Iceshooter",
+			"path": "./assets/images/iceshooter.png",
+			"width": 241,
+			"height": 74
+		},
+		{
+			"name": "Sunflower",
+			"path": "./assets/images/sunflower.png",
+			"width": 744,
+			"height": 413
+		},
+		{
+			"name": "SunDroplet",
+			"path": "./assets/images/sundroplet.png",
+			"width": 186,
+			"height": 96
+		},
+		{
+			"name": "RegularZombie",
+			"path": "./assets/images/regularzombie.png",
+			"width": 656,
+			"height": 162
+		},
+		{
+			"name": "ConeheadZombie",
+			"path": "./assets/images/coneheadzombie.png",
+			"width": 555,
+			"height": 167
+		},
+		{
+			"name": "AthleteZombie",
+			"path": "./assets/images/athletezombie.png",
+			"width": 914,
+			"height": 278
+		},
+		{
+			"name": "FrozenRegularZombie",
+			"path": "./assets/images/frozen_regularzombie.png",
+			"width": 656,
+			"height": 162
+		},
+		{
+			"name": "FrozenConeheadZombie",
+			"path": "./assets/images/frozen_coneheadzombie.png",
+			"width": 555,
+			"height": 167
+		},
+		{
+			"name": "FrozenAthleteZombie",
+			"path": "./assets/images/frozen_athletezombie.png",
+			"width": 914,
+			"height": 278
+		},
+		{
+			"name": "GameOverScreen",
+			"path": "./assets/images/gameOverScreen.jpg",
+			"width": 1280,
+			"height": 720
+		},
+		{
+			"name": "Shovel",
+			"path": "./assets/images/Shovel.webp",
+			"width": 139,
+			"height": 141
+		},
+		{
+			"name": "StarPlaceHolder",
+			"path": "./assets/images/star-placeholder.png",
+			"width": 558,
+			"height": 210
+		},
+		{
+			"name": "Star",
+			"path": "./assets/images/star.png",
+			"width": 130,
+			"height": 120
+		},
+		{
+			"name": "VictoryScreen",
+			"path": "./assets/images/victoryScreen.jpg",
+			"width": 1920,
+			"height": 1080
+		},
+		{
+			"name": "TitleScreen",
+			"path": "./assets/images/titleScreen.jpg",
+			"width": 900,
+			"height": 506
+		}
+	],
+	"fonts":[
+		{
+			"name": "plantsvszombies",
+			"path": "./assets/fonts/SERIO___.ttf"
+		},
+		{
+			"name": "plantsvszombiesPlayState",
+			"path": "./assets/fonts/Brianne_s_hand.ttf"
+		},
+		{
+			"name": "plantsvszombiesWinLoss",
+			"path": "./assets/fonts/Samdan.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "grasswalk",
+			"path": "./assets/sounds/Grasswalk.mp3",
+			"size": 1,
+			"volume": 0.25,
+			"loop": true
+		},
+		{
+			"name": "title",
+			"path": "./assets/sounds/titleTheme.mp3",
+			"size": 1,
+			"volume": 0.25,
+			"loop": true
+		},
+		{
+			"name": "dig",
+			"path": "./assets/sounds/dig.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "chomp1",
+			"path": "./assets/sounds/chomp1.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "chomp2",
+			"path": "./assets/sounds/chomp2.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "fertilizer",
+			"path": "./assets/sounds/fertilizer.ogg",
+			"size": 1,
+			"volume": 1,
+			"loop": false
+		},
+		{
+			"name": "finalfanfare",
+			"path": "./assets/sounds/finalfanfare.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "groan1",
+			"path": "./assets/sounds/groan1.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "groan2",
+			"path": "./assets/sounds/groan2.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "groan3",
+			"path": "./assets/sounds/groan3.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "groan4",
+			"path": "./assets/sounds/groan4.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "groan5",
+			"path": "./assets/sounds/groan5.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "groan6",
+			"path": "./assets/sounds/groan6.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "losemusic",
+			"path": "./assets/sounds/losemusic.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "shoop",
+			"path": "./assets/sounds/shoop.ogg",
+			"size": 1,
+			"volume": 0.25,
+			"loop": false
+		},
+		{
+			"name": "zombieDie",
+			"path": "./assets/sounds/zombieDie.ogg",
+			"size": 1,
+			"volume": 0.75,
+			"loop": false
+		},
+		{
+			"name": "bleep",
+			"path": "./assets/sounds/bleep.ogg",
+			"size": 1,
+			"volume": 1,
+			"loop": false
+		},
+		{
+			"name": "floop",
+			"path": "./assets/sounds/floop.ogg",
+			"size": 1,
+			"volume": 1,
+			"loop": false
+		}
+	]
+}
